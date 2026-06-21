@@ -1,0 +1,26 @@
+SAMPLE QUESTIONS FOR DEMO
+
+Simple Questions:
+1. What files are in this repository?
+2. What is in test.py?
+3. What does the README say?
+
+Function Questions:
+4. What functions are available?
+5. What does the hello_world function do?
+6. What is the main function?
+
+Class Questions:
+7. How does the Calculator class work?
+8. What methods does Calculator have?
+9. What does the add method do?
+
+Specific Code Questions:
+10. Show me the divide method
+11. What is the subtract method?
+12. How does the multiply method work?
+
+Repository Understanding:
+13. What is this repository about?
+14. How do I use this code?
+15. What is the project structure?
