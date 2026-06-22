@@ -59,7 +59,7 @@ def main():
             print(f"\n Answer:\n{answer}")
             
         except KeyboardInterrupt:
-            print("\n\nGoodbye! 👋")
+            print("\n\nGoodbye! ")
             break
         except Exception as e:
             print(f"\n Error: {e}")
